@@ -1,0 +1,8 @@
+{
+    "name": "Adafruit_LSM9DS0",
+    "version": "0.0.1",
+    "author": "Adafruit Industries",
+    "license": "BSD",
+    "description": "LSM9DS0 library for the Spark Core."
+
+}
