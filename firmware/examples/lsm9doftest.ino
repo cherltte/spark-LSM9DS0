@@ -1,5 +1,5 @@
 #include "Adafruit_LSM9DS0/Adafruit_LSM9DS0.h"
-#include "Adafruit_Sensor.h"  // not used in this demo but required!
+#include "Adafruit_LSM9DS0/Adafruit_Sensor.h"  // not used in this demo but required!
 
 // i2c
 Adafruit_LSM9DS0 lsm = Adafruit_LSM9DS0();

@@ -1,4 +1,4 @@
-#include "Adafruit_Sensor.h"
+#include "Adafruit_LSM9DS0/Adafruit_Sensor.h"
 #include "Adafruit_LSM9DS0/Adafruit_LSM9DS0.h"
 
 /* This driver uses the Adafruit unified sensor library (Adafruit_Sensor),
